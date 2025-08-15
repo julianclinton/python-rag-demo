@@ -2,7 +2,7 @@
 
 Various RAG demos.
 
-For example documents, I'm using the SPSS Modeler 18.5 docs which can be downloaded as PDFs from https://www.ibm.com/support/pages/spss-modeler-185-documentation.
+For example documents, I'm using the SPSS Modeler 18.5 docs which can be downloaded as PDFs from https://www.ibm.com/support/pages/spss-modeler-185-documentation. The demos assume they are available in "$HOME/Documents/SPSSModeler/v18.5".
 
 
 ## Basic Setup
